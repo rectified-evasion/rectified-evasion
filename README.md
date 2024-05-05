@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Interested in clinical neurology, applications of geometry in neurobiology. Currently mostly focussing on electrophysiological data processing.
+
 <!--
 **rectified-evasion/rectified-evasion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
